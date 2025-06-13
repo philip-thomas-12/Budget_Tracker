@@ -1,3 +1,4 @@
+
 Budget Tracker
 
 A modern and user-friendly Budget Tracker application to help individuals and groups manage their finances effectively. This application allows users to monitor personal budgets and track group expenses with ease.
